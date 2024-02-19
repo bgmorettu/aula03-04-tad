@@ -4,3 +4,4 @@
 typedef struct ArrayDinamico ArrayDinamico;
 ArrayDinamico* array_dinamico_create();
 void array_dinamico_destroy(ArrayDinamico* array);
+voyd array_dinamico_add (ArrayDinamico
